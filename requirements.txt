@@ -1,0 +1,8 @@
+numpy==1.20.3
+opencv-python==4.5.2.54
+Pillow==8.2.0
+plyer==2.0.0
+pypiwin32==223
+pytesseract==0.3.7
+pywin32==301
+tesseract==0.1.3
